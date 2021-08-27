@@ -1,3 +1,3 @@
 id=1, name=Mohsin, salary=35000.0
-id=1, name=Mohsin, salary=35000.0
-id=1, name=Mohsin, salary=35000.0
+id=2, name=Sumer, salary=35000.0
+id=3, name=Sofyan, salary=35000.0
